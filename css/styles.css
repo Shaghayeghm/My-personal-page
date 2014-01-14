@@ -1,0 +1,42 @@
+.titlebar {
+
+padding-left:20px;
+margin-left:20px;
+margin-right:40px;
+}
+
+.avatar{
+border-radius: 200px;
+width:200px;
+height:200px;
+float:left;
+}
+.titlebar h1{
+
+text-align:center;
+line-height:200px;
+font-family:sans-serif;
+font-size:40px;
+color:#8b9130 ;
+margin-left:-40px;
+
+}
+
+.page{
+
+margin-left:40px;
+margin-right:40px;
+}
+
+.work {
+border:10px dotted black;
+
+}
+.hobbies {
+	background-image:url("http://www.sfu.ca/cupc2007/img/Vancouver_ib.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:600px;
+}
+
+
